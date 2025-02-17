@@ -1,6 +1,38 @@
----
----
+/* 🌱 Niallbell-inspired Theme */
+body {
+  background-color: #fdfdfd;
+  color: #222;
+  font-family: 'Inter', sans-serif;
+  line-height: 1.6;
+}
 
-@import "../_sass/normalize";
-@import "../_sass/code";
-@import "../_sass/style";
+h1, h2, h3 {
+  margin-top: 2em;
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 0.5em;
+}
+
+a {
+  color: #1a73e8;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+ul > li {
+  margin: 1em 0;
+  padding: 1em;
+  background: #f7f7f7;
+  border-radius: 12px;
+  transition: transform 0.3s ease;
+}
+
+ul > li:hover {
+  transform: translateY(-5px);
+}
