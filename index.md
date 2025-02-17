@@ -12,7 +12,7 @@ permalink: /
 </p>
 
 Hello there! yes!
-
+![[Pasted image 20250217231431.png]]
 
 <strong>Recently updated notes</strong>
 
