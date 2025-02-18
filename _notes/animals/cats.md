@@ -1,5 +1,7 @@
 ---
 title: A note about cats
+dg-publish: 
+dg-home: false
 ---
 
 This is a second note with a poem with cats. 
